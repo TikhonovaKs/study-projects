@@ -7,7 +7,7 @@
 * Description
 
 ### Link GitHub Pages:
-* 
+* https://tikhonovaks.github.io/study-projects/Project-2-Travel/
 
 ### Introduction
 Educational project "Journey through Russia", adaptive layout.

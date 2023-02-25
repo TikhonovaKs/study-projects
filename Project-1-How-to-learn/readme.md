@@ -1,7 +1,7 @@
 # HOW-TO-LEARN
 
 ### Link GitHub Pages:
-*
+* https://tikhonovaks.github.io/study-projects/Project-1-How-to-learn/
 
 Typical one page website.
 
